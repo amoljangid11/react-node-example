@@ -1,9 +1,10 @@
 import React from 'react'
+import User from './components/User'
 
 export default function App() {
   return (
     <div>
-      <h1>This is My App Component</h1>
+      <User />
     </div>
   )
 }
